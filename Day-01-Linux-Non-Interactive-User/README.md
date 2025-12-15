@@ -41,15 +41,19 @@ A non-interactive shell ensures:
 sudo useradd -s /sbin/nologin jim
 
 ###Verify user configuration
+
 getent passwd jim 
 
 ###Expected output:
+
 jim:x:1005:1005::/home/jim:/sbin/nologin
 
 ###Test login access
+
 su - jim
 
 ###expected output
+
 This account is currently not available.
 
 ✅ Outcome
