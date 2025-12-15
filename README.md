@@ -1,2 +1,28 @@
-# 100-days-of-devops
-This repos contains the documentation of 100 days of devops engineer kodekloud challenges
+# 100 Days of DevOps 🚀
+
+This repository documents my **100 Days of DevOps challenge**, where I revisit core DevOps and Cloud concepts through **hands-on, real-world tasks**.
+
+Even with industry experience, consistent practice is essential to:
+- Retain concepts long-term
+- Strengthen fundamentals
+- Build confidence in real production scenarios
+
+Each day includes:
+- Task description
+- Why the task is important
+- Real-world relevance
+- Commands and explanations
+- Clear conclusions for future revision
+
+📌 Inspired by real-world challenges from platforms like KodeKloud.
+
+---
+
+## 📅 Progress
+- ✅ Day 01 – Linux User Setup with Non-Interactive Shell
+- ⏳ Day 02 – Coming soon...
+
+---
+
+## 🧠 Goal
+To record everything that I am learning from this challenge for future revision. 
