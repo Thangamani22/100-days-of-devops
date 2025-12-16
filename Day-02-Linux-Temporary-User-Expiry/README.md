@@ -52,28 +52,27 @@ Once the expiry date is reached:
 sudo useradd -e 2023-12-07 jim
 ```
 
-Verify account expiry details
+### Verify account expiry details
+```bash
 sudo chage -l jim
+```
 
-
-Expected output includes:
+### Expected output includes:
 
 Account expires : Dec 07, 2023
 
-🔍 How It Works Internally
+### 🔍 How It Works Internally
 
 Linux stores account lifecycle information in:
-
+```bash
 /etc/shadow
+```
+1. Expiry dates are stored as days since Jan 1, 1970
+1. chage converts this into human-readable format
+1. Authentication mechanisms check expiry during login attempts
+``
 
-
-Expiry dates are stored as days since Jan 1, 1970
-
-chage converts this into human-readable format
-
-Authentication mechanisms check expiry during login attempts
-
-🪟 Windows Equivalent (Cross-Platform Perspective)
+### 🪟 Windows Equivalent (Cross-Platform Perspective)
 
 Windows does not use shells like Linux.
 Instead, temporary access is managed using account policies.
