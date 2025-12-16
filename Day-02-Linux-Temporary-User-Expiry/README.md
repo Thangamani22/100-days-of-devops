@@ -77,7 +77,7 @@ Linux stores account lifecycle information in:
 Windows does not use shells like Linux.
 Instead, temporary access is managed using account policies.
 
-Typical approach:
+## Typical approach:
 
 1. Create a local or domain user
 2. Set account expiration (Active Directory or local policy)
@@ -85,10 +85,11 @@ Typical approach:
 4. Allow only required service or task permissions
 
 ### Key Comparison
-Linux	Windows
-Account expiry (-e, chage)	Account expiration policies
-/etc/shadow	Local Security Policy / AD
-Shell-based access control	Policy-based access control
+|Linux                       |	Windows                      |
+|----------------------------|-------------------------------|
+|Account expiry (-e, chage)	 | Account expiration policies   |
+|/etc/shadow	               | Local Security Policy / AD    |
+|Shell-based access control	 | Policy-based access control   |
 
 ### ✅ Outcome
 
