@@ -79,40 +79,33 @@ Instead, temporary access is managed using account policies.
 
 Typical approach:
 
-Create a local or domain user
+1. Create a local or domain user
+2. Set account expiration (Active Directory or local policy)
+3. Deny interactive logon (local / RDP)
+4. Allow only required service or task permissions
 
-Set account expiration (Active Directory or local policy)
-
-Deny interactive logon (local / RDP)
-
-Allow only required service or task permissions
-
-Key Comparison
+### Key Comparison
 Linux	Windows
 Account expiry (-e, chage)	Account expiration policies
 /etc/shadow	Local Security Policy / AD
 Shell-based access control	Policy-based access control
-✅ Outcome
 
-Temporary access granted securely
+### ✅ Outcome
 
-Automatic access revocation ensured
+1. Temporary access granted securely
+2. Automatic access revocation ensured
+3. Reduced operational and security risk
 
-Reduced operational and security risk
+### 🧠 Key Learnings
 
-🧠 Key Learnings
+1. Importance of access lifecycle management
+1. Difference between temporary access and permanent users
+1. How Linux enforces expiry at authentication level
+1. Cross-platform IAM principles
 
-Importance of access lifecycle management
-
-Difference between temporary access and permanent users
-
-How Linux enforces expiry at authentication level
-
-Cross-platform IAM principles
-
-🏁 Conclusion
+### 🏁 Conclusion
 
 Time-bound access is a core security practice, not an optional feature.
 This task reinforces how small configurations can have a big impact on system security and compliance.
 
-✔ Task Completed
+### ✔ Task Completed
