@@ -20,8 +20,8 @@ Each day includes:
 
 ## 📅 Progress
 - ✅ Day 01 – Linux User Setup with Non-Interactive Shell
-- ⏳ Day 02 – Coming soon...
-
+- ✅ Day 02 – Linux-Temporary-User-Expiry
+- ✅ Day 03 - Disable-Root-SSH-Login
 ---
 
 ## 🧠 Goal
