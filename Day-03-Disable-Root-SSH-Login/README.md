@@ -70,7 +70,6 @@ Setting it to `no` blocks all direct root login attempts.
 Edit the SSH daemon configuration:
 
 ```bash
-```bash
 sudo vi /etc/ssh/sshd_config
 ```
 *** Set the following value:
