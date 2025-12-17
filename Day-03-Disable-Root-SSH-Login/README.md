@@ -70,45 +70,44 @@ Setting it to `no` blocks all direct root login attempts.
 Edit the SSH daemon configuration:
 
 ```bash
+```bash
 sudo vi /etc/ssh/sshd_config
-
+```
 *** Set the following value:
 
 PermitRootLogin no
 
-2. Validate Configuration
+### 2. Validate Configuration
 
 Before applying changes, validate the configuration:
-
+```bash
 sudo sshd -t
-
+```
 No output confirms the configuration is valid.
 
-3. Restart SSH Service
+### 3. Restart SSH Service
 
 Apply the changes:
-
+```bash
 sudo systemctl restart sshd
-
-Verification
+```
+### Verification
 
 Check the effective SSH configuration:
-
+```bash
 sudo sshd -T | grep permitrootlogin
-
-
+```
 Expected output:
 
 permitrootlogin no
-
 
 Test root SSH access (should fail):
 
 ssh root@<server-name>
 
-Conclusion
+### Conclusion
 
 Disabling direct root SSH login is a fundamental security practice in real-world DevOps environments.
 This task reinforces secure access design and operational discipline.
 
-Day 03 completed.
+### Day 03 completed.
