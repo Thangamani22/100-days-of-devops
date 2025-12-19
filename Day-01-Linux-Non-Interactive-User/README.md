@@ -37,24 +37,24 @@ A non-interactive shell ensures:
 
 ## ⚙️ Implementation
 
-** Create user with non-interactive shell **
+**Create user with non-interactive shell**
 ```bash
 sudo useradd -s /sbin/nologin jim
 ```
 
-### Verify user configuration
+**Verify user configuration**
 ```bash
 getent passwd jim 
 ```
-### Expected output:
+**Expected output:**
 ```bash
 jim:x:1005:1005::/home/jim:/sbin/nologin
 ```
-### Test login access
+**Test login access**
 ```bash
 su - jim
 ```
-### expected output
+**expected output**
 ```text
 This account is currently not available.
 ```
