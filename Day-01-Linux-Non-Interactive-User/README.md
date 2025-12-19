@@ -38,43 +38,47 @@ A non-interactive shell ensures:
 ## ⚙️ Implementation
 
 ### Create user with non-interactive shell
+```bash
 sudo useradd -s /sbin/nologin jim
+```
 
 ###Verify user configuration
-
+```bash
 getent passwd jim 
-
+```
 ###Expected output:
-
+```bash
 jim:x:1005:1005::/home/jim:/sbin/nologin
-
+```
 ###Test login access
-
+```bash
 su - jim
-
+```
 ###expected output
-
+```text
 This account is currently not available.
+```
+---
+### ✅ Outcome
 
-✅ Outcome
+- User jim successfully created
 
-User jim successfully created
+- Login access restricted
 
-Login access restricted
+- System secured against unauthorized access
 
-System secured against unauthorized access
+---
+### 🧠 Key Learning
 
-🧠 Key Learning
+- Difference between interactive and non-interactive shells
 
-Difference between interactive and non-interactive shells
+- Importance of service account security
 
-Importance of service account security
+- Practical Linux user management in production systems
 
-Practical Linux user management in production systems
-
-🏁 Conclusion
+### 🏁 Conclusion
 
 This task reinforces a core Linux and security concept that is frequently used in enterprise environments.
 Documenting it ensures easy revision and long-term retention.
 
-✔ Day 01 Completed
+## ✔ Day 01 Completed
