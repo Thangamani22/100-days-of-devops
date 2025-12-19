@@ -97,13 +97,13 @@ Check the effective SSH configuration:
 sudo sshd -T | grep permitrootlogin
 ```
 Expected output:
-
+```text
 permitrootlogin no
-
+```
 Test root SSH access (should fail):
-
+```bash
 ssh root@<server-name>
-
+```
 ### Conclusion
 
 Disabling direct root SSH login is a fundamental security practice in real-world DevOps environments.
