@@ -25,7 +25,7 @@ Each day includes:
 - ✅ Day-04 - Linux-File-Permissions
 - ✅ Day-05 - SELinux
 - ✅ Day-06 - Cron-Jobs-and-Scheduling
-- ✅ Day-07 - coming----
+- ✅ Day-07 - Password-less-SSH-Authentication
 ---
 
 ## 🧠 Goal
