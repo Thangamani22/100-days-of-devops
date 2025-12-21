@@ -22,6 +22,10 @@ Each day includes:
 - ✅ Day 01 – Linux User Setup with Non-Interactive Shell
 - ✅ Day 02 – Linux-Temporary-User-Expiry
 - ✅ Day 03 - Disable-Root-SSH-Login
+- ✅ Day-04 - Linux-File-Permissions
+- ✅ Day-05 - SELinux
+- ✅ Day-06 - Cron-Jobs-and-Scheduling
+- ✅ Day-07 - coming----
 ---
 
 ## 🧠 Goal
