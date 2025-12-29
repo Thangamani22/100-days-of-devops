@@ -27,6 +27,8 @@ Each day includes:
 - ✅ Day-06 - Cron-Jobs-and-Scheduling
 - ✅ Day-07 - Password-less-SSH-Authentication
 - ✅ Day-08 - Ansible-Installation-and-Basics
+- ✅ Day-09 - MariaDB-Incident-Recovery
+- ✅ Day-10 - Website-Media-Backup
 ---
 
 ## 🧠 Goal
