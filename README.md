@@ -29,6 +29,8 @@ Each day includes:
 - ✅ Day-08 - Ansible-Installation-and-Basics
 - ✅ Day-09 - MariaDB-Incident-Recovery
 - ✅ Day-10 - Website-Media-Backup
+- ✅ Day-11 - Tomcat-Java-App-Deployment
+- ✅ Day-12 - Apache-Troubleshooting
 ---
 
 ## 🧠 Goal
