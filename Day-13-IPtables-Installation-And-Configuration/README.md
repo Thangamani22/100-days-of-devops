@@ -120,7 +120,7 @@ telnet stapp01 3000
 
 ---
 ## Automation
-- To automate this task using ansible go through this documentation - 
+- To automate this task using ansible go through this documentation - https://github.com/Thangamani22/100-days-of-devops/blob/main/100-days-of-devops-side-quests/Side-Quest-Ansible-Foundations/Day-13-IPtables-installation-and-config-using-Ansible.md
 
 ## Final Outcome
 - iptables installed successfully
