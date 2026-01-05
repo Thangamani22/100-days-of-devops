@@ -1,4 +1,4 @@
-# Day 08 – Ansible Side Quest  
+# Day 08 – Install Ansible and Create Cron jobs using Ansible 
 ## From Manual Linux Tasks to Real Automation (Complete Study & Revision Guide)
 
 This document captures **everything I did beyond the official Day 08 task** of the *100 Days of DevOps* challenge.
