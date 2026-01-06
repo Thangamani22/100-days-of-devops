@@ -32,6 +32,7 @@ Each day includes:
 - ✅ Day-11 - Tomcat-Java-App-Deployment
 - ✅ Day-12 - Apache-Troubleshooting
 - ✅ Day-13 - IPtables-Installation-And-Configuration
+- ✅ Day-14 - Apache-Service-Troubleshooting
 ---
 
 ## 🧠 Goal
