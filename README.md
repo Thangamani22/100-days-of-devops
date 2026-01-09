@@ -31,8 +31,10 @@ Each day includes:
 - ✅ Day-10 - Website-Media-Backup
 - ✅ Day-11 - Tomcat-Java-App-Deployment
 - ✅ Day-12 - Apache-Troubleshooting
-- ✅ Day-13 - IPtables-Installation-And-Configuration
+- ✅ Day-13 - IPtables-Installation-And-Configuration 
 - ✅ Day-14 - Apache-Service-Troubleshooting
+- ✅ Day-15 - Nginx-SSL-Configuration
+- ✅ Day-16 - Install-and-Configure-Nginx-as-an-LBR
 ---
 
 ## 🧠 Goal
