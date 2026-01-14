@@ -35,6 +35,9 @@ Each day includes:
 - ✅ Day-14 - Apache-Service-Troubleshooting
 - ✅ Day-15 - Nginx-SSL-Configuration
 - ✅ Day-16 - Install-and-Configure-Nginx-as-an-LBR
+- ✅ Day-17 - PostgreSQL-User-and-Database-Setup
+- ✅ Day-18 - Configure-LAMP-server
+- ✅ Day-19 - Install and Configure Web Application-
 ---
 
 ## 🧠 Goal
