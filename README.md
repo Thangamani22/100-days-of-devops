@@ -39,6 +39,8 @@ Each day includes:
 - ✅ Day-18 - Configure-LAMP-server
 - ✅ Day-19 - Install and Configure Web Application
 - ✅ Day-20 - Nginx-PHP-FPM-Unix-Socket
+- ✅ Day-21 - Bare-Git-Repository
+- ✅ Day-22 - Clone-Git-Repository
 ---
 
 ## 🧠 Goal
