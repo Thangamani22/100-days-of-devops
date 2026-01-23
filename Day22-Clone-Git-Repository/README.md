@@ -11,7 +11,7 @@ This task demonstrates how application developers consume a repository that was 
 ## Task Summary
 - Repository source: `/opt/media.git`
 - Destination directory: `/usr/src/kodekloudrepos`
-- User to perform task: `natasha`
+- User to perform task: `natasha`(standard user)
 - Restrictions:
   - ❌ No permission changes
   - ❌ No repository modifications

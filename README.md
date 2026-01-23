@@ -41,6 +41,10 @@ Each day includes:
 - ✅ Day-20 - Nginx-PHP-FPM-Unix-Socket
 - ✅ Day-21 - Bare-Git-Repository
 - ✅ Day-22 - Clone-Git-Repository
+- ✅ Day-23 - Fork-Git-Repository-Gitea
+- ✅ Day-24 - Create-Git-Branch
+- ✅ Day-25 - Git-Merge-Branches
+- ✅ Day-26 - Git-Multiple-Remotes
 ---
 
 ## 🧠 Goal
