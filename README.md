@@ -45,7 +45,7 @@ Each day includes:
 - ✅ Day-24 - Create-Git-Branch
 - ✅ Day-25 - Git-Merge-Branches
 - ✅ Day-26 - Git-Multiple-Remotes
-- ✅ Day-26 - Git-Multiple-Remotes
+- ✅ Day-27 - Git Revert Some Changes
 ---
 
 ## 🧠 Goal
