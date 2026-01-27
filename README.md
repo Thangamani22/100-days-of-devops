@@ -46,6 +46,8 @@ Each day includes:
 - ✅ Day-25 - Git-Merge-Branches
 - ✅ Day-26 - Git-Multiple-Remotes
 - ✅ Day-27 - Git Revert Some Changes
+- ✅ Day-28 - Git-Cherry-Pick
+- ✅ Day-29 - Git-Pull-Request-Workflow
 ---
 
 ## 🧠 Goal
