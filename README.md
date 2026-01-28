@@ -48,6 +48,7 @@ Each day includes:
 - ✅ Day-27 - Git Revert Some Changes
 - ✅ Day-28 - Git-Cherry-Pick
 - ✅ Day-29 - Git-Pull-Request-Workflow
+- ✅ Day-30 - Git-Reset-Clean-History
 ---
 
 ## 🧠 Goal
