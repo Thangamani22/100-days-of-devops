@@ -49,6 +49,10 @@ Each day includes:
 - ✅ Day-28 - Git-Cherry-Pick
 - ✅ Day-29 - Git-Pull-Request-Workflow
 - ✅ Day-30 - Git-Reset-Clean-History
+- ✅ Day-31 - Git-Stash-Restore
+- ✅ Day-32 - Git-Rebase-Feature-Update
+- ✅ Day-33 - Git-Merge-Conflict-Resolution
+- ✅ Day-34 - Git-Hooks-Automatic-Release-Tag
 ---
 
 ## 🧠 Goal
