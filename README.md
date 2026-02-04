@@ -53,6 +53,8 @@ Each day includes:
 - ✅ Day-32 - Git-Rebase-Feature-Update
 - ✅ Day-33 - Git-Merge-Conflict-Resolution
 - ✅ Day-34 - Git-Hooks-Automatic-Release-Tag
+- ✅ Day-35-Docker-Installation-CentOS-Stream-9
+- ✅ Day-36-Docker-Run-Nginx-Container
 ---
 
 ## 🧠 Goal
