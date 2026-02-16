@@ -53,8 +53,17 @@ Each day includes:
 - ✅ Day-32 - Git-Rebase-Feature-Update
 - ✅ Day-33 - Git-Merge-Conflict-Resolution
 - ✅ Day-34 - Git-Hooks-Automatic-Release-Tag
-- ✅ Day-35-Docker-Installation-CentOS-Stream-9
-- ✅ Day-36-Docker-Run-Nginx-Container
+- ✅ Day-35 - Docker-Installation-CentOS-Stream-9
+- ✅ Day-36 - Docker-Run-Nginx-Container
+- ✅ Day-37 - Docker-Copy-File-to-Container
+- ✅ Day-38 - Docker-Pull-and-Retag-Image
+- ✅ Day-39 - Docker-Commit-Create-Image
+- ✅ Day-40 - Docker-Apache-Config-Inside-Container
+- ✅ Day-41 - Dockerfile-Apache-Custom-Image
+- ✅ Day-42 - Docker-Macvlan
+- ✅ Day-43 - Docker-Port-Mapping
+- ✅ Day-44 - Docker-Compose
+- ✅ 
 ---
 
 ## 🧠 Goal
